@@ -1,0 +1,15 @@
+{
+	"name": "webgl",
+	"module": "app.js",
+	"type": "module",
+	"entryPoints": [
+		"app.js"
+	],
+	"outdir": "dist",
+	"devDependencies": {
+		"@types/bun": "latest"
+	},
+	"peerDependencies": {
+		"typescript": "^5.0.0"
+	}
+}
